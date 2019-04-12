@@ -5,3 +5,6 @@ dubbo-customer/.mvn
 dubbo-service1/.mvn
 SpringBootStarter.iml
 *.iml
+maven-wrapper.jar
+dubbo-service2/.mvn
+application.yml

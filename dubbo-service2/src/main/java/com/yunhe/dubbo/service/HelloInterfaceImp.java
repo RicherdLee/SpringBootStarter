@@ -9,7 +9,7 @@ import pojo.Hello;
 /**
  * Created by lihao on 2019/4/10.
  */
-@Service(version = "1.0.0", group = "service1")
+@Service(version = "1.0.0", group = "service2")
 @Component
 public class HelloInterfaceImp implements HelloInterface {
 
