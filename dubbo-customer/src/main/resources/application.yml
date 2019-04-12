@@ -1,0 +1,10 @@
+server:
+  port: 8082
+
+dubbo:
+  application:
+    name: dubbo-customer # 消息者名字
+  registry:
+    address: zookeeper://192.168.0.179:2181 # 注册中心地址
+  annotation:
+    package: com.test.controller
